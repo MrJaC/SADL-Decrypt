@@ -1,0 +1,4 @@
+include ':DataCollection'
+include ':bcprov-jdk15to18-166'
+include ':app'
+rootProject.name = "hsm.dataeditinghex"
